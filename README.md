@@ -128,7 +128,7 @@ AiTalkLog では、生成AIとのやり取りを次の二層構造で管理し�
 ## 📥 ダウンロード
 下記の GitHub Releases から ZIP（AiTalkLog.zip）をダウンロードして下さい。
 
-[https://github.com/takeo-2026/AiTalkLog-Release/releases/tag/v1.0.0](https://github.com/takeo-2026/AiTalkLog-Release/releases/latest)
+https://github.com/takeo-2026/AiTalkLog-Release/releases/latest
 
 ## 📂 フォルダ構成
 AiTalkLog/  
