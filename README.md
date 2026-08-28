@@ -7,6 +7,11 @@
 - **ZIP をダウンロードして AiTalkLog.exe を起動してみることをおすすめします。**
 - 実際の画面を見ながら README を読むと、操作の流れがより分かりやすくなります。
 
+## 📥 ダウンロード
+下記の GitHub Releases から ZIP（AiTalkLog.zip）をダウンロードして下さい。
+
+👉 https://github.com/takeo-2026/AiTalkLog-Release/releases/latest
+
 ## ✨ 特徴
 - **対話タイトルとキーワードの自動生成**  
   会話内容からタイトルとキーワードを自動抽出し、後から読み返しやすい形で整理できます。
@@ -124,11 +129,6 @@ AiTalkLog では、生成AIとのやり取りを次の二層構造で管理し�
 
 この二層構造により、  
 「大きなテーマ（表題）」と「個別の会話（対話）」を整理しながら蓄積できます。
-
-## 📥 ダウンロード
-下記の GitHub Releases から ZIP（AiTalkLog.zip）をダウンロードして下さい。
-
-👉 https://github.com/takeo-2026/AiTalkLog-Release/releases/latest
 
 ## 📂 フォルダ構成
 AiTalkLog/  
