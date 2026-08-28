@@ -46,7 +46,7 @@ AiTalkLog は、生成AIとの対話を効率的に記録・整理するため�
 AiTalkLogを起動した直後の画面です。
 
 <p align="left">
-  <img src="対話一覧.png" alt="対話一覧画面" width="40%">
+  <img src="対話一覧.png" alt="対話一覧画面" width="50%">
 </p>
 
 - **表題一覧**  
@@ -62,7 +62,7 @@ AiTalkLog と生成AI（例：Copilot）を並べて表示することで、
 プロンプトのコピー＆ペーストやレスポンスの貼り付けを効率化できます。
 
 <p align="left">
-  <img src="対話詳細.png" alt="対話詳細画面" width="80%">
+  <img src="対話詳細.png" alt="対話詳細画面" width="100%">
 </p>
 
 - **対話名・キーワード**  
