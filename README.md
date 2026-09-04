@@ -1,4 +1,4 @@
-![release](https://img.shields.io/github/v/release/takeo-2026/AiTalkLog-Release)
+![release](https://img.shields.io/github/v/release/takeo-2026/CrafStruct)
 ![platform](https://img.shields.io/badge/platform-Windows-blue)
 
 # AI対話記録ツール(AiTalkLog)
