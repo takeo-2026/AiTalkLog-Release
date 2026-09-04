@@ -1,3 +1,6 @@
+![version](https://img.shields.io/badge/version-1-blue)
+![platform](https://img.shields.io/badge/platform-Windows-blue)
+
 # AI対話記録ツール(AiTalkLog)
 
 ## 🚀 生成AIとの対話を「資産化」するログ管理ツール
