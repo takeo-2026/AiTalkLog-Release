@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-1-blue)
+![release](https://img.shields.io/github/v/release/takeo-2026/AiTalkLog-Release)
 ![platform](https://img.shields.io/badge/platform-Windows-blue)
 
 # AI対話記録ツール(AiTalkLog)
